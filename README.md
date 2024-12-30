@@ -21,7 +21,7 @@ The Brazilian E-Commerce Public Dataset by Olist (Andre Sionek · Leo Dabague ·
 - 39 columns (after merging the 9 sets together)
 for more information about the data set , visit it's [page](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) on kaggle.
 
-##Modeling
+## Modeling
 - The clustering algorithm used was Kmeans clustering , using 3 clusters , after being determined by the **elbow method** technique.
 - The algorithm successfully classified the cutomers to three clusters which are:
   - High-value, satisfied customers
